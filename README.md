@@ -287,12 +287,6 @@ This project was built to explore the combination of:
 * 3D model and texture management
 * Webpack-based JavaScript applications
 
-## 📄 License
-
-This project currently does not specify a license.
-
-If you decide to make the project open source, consider adding a license such as the **MIT License**.
-
 ---
 
 ⭐ If you find the project interesting, consider starring the repository.
