@@ -1,0 +1,14 @@
+node_modules
+dist/
+build/
+.vscode/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+.cache/
+.parcel-cache/
+.webpack/
+.tmp/
+temp/
